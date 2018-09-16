@@ -1,4 +1,3 @@
-#################### question 3 ###########################t
 rm(list = ls())
 getwd()
 setwd("/Users/rociozhong/Library/Mobile Documents/com~apple~CloudDocs/STAT_542")
